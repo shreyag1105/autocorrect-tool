@@ -1,0 +1,7 @@
+streamlit==1.32.2
+numpy==1.26.4
+# For potential future enhancements
+spacy==3.7.4
+transformers==4.38.2
+torch==2.2.1
+python-Levenshtein==0.23.0
